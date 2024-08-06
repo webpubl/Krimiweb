@@ -15,7 +15,7 @@
 
 <script>
     document.getElementById('myButton').addEventListener('click', function() {
-        window.open('file:///C:/Users/Michal/Documents/Moje%20S.A.V%20Antivirusy/kontakt.html', '_blank');
+        window.open('https://webpubl.github.io/kontakt/', '_blank');
     });
 </script>
 
