@@ -11,7 +11,6 @@
 <em>Výtejte na strance KRIMI  tato stranka je dovážejicí služba.</em>
 <br>
 <button id="myButton">Objednat</button>
-</br>
 
 <script>
     document.getElementById('myButton').addEventListener('click', function() {
