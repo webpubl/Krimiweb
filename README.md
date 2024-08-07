@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="cs">
 <head>
     <meta charset="UTF-8">
@@ -46,7 +45,7 @@
 </br>
 <br>
 <Strong>Otevírací doba</Strong>
-
+</br>
 <script>
     document.getElementById('myButton').addEventListener('click', function() {
         window.open('file:///C:/Users/Michal/Documents/Moje%20S.A.V%20Antivirusy/kontakt.html', '_blank');
