@@ -42,10 +42,10 @@
 <em>Výtejte na strance KRIMI, tato stranka je dovážejicí služba.</em>
 <br>
 <button id="myButton">Objednat</button>
-</br>
+
 <br>
 <Strong>Otevírací doba</Strong>
-</br>
+
 <script>
     document.getElementById('myButton').addEventListener('click', function() {
         window.open('file:///C:/Users/Michal/Documents/Moje%20S.A.V%20Antivirusy/kontakt.html', '_blank');
